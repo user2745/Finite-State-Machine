@@ -1,5 +1,6 @@
 # Finite-State-Machine
-This allow you to develop a machine
+
+This is a tool that alllows you to create a finite state machine. This is a work in progress so please wait until it is done before downloading it. Much thanks.
 
 ### What is this for
 
