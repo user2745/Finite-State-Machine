@@ -91,8 +91,11 @@ public class Machine
                     System.out.println("Reject");
                 }
             }
+            // closes the input
+            kb.close();
 
         }
+        
     }
 
 }
